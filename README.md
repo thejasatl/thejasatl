@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Monica 👋🏾 💻
 
-<!--
-**thejasatl/thejasatl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Monica Powell](link-to-image)
 
-Here are some ideas to get you started:
+## MONICA POWELL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**software engineer, content creator & community organizer**
+
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural GitHub Star ⭐ based on my involvement in the tech community. My interest in the React ecosystem led me to launch React Robins, a community for women and non-binary ReactJS developers.
+
+---
+
+### Find me around the web 🌎:
+- Learning in public on [Twitch](link-to-twitch) or [monica.dev](link-to-monica-dev) 📺 ✍🏾
+- Tinkering with interactions on [Codepen](link-to-codepen) 🏓
+- Sharing updates on [LinkedIn](link-to-linkedin) 💼
