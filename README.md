@@ -1,6 +1,6 @@
 # Hi, I'm Monica 👋🏾 💻
 
-![Monica Powell](link-to-image)
+![Monica Powell](images/cover.png)
 
 ## MONICA POWELL
 
