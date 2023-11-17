@@ -1,8 +1,8 @@
-# Hi, I'm Monica 👋🏾 💻
+# Hi, I'm Theja 👋🏾 💻
 
-![Monica Powell](cover.png)
+![Thejas lal](cover.png)
 
-## MONICA POWELL
+## THEJAS LAL
 
 **software engineer, content creator & community organizer**
 
