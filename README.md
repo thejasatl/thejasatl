@@ -43,4 +43,4 @@ I'm a Network and Software engineer who is passionate about making contributing 
 - Tinkering with interactions on 🏓
 - Sharing updates on 💼
 
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/thejasatl/thejasatl/)
+[![Hits](https://hits.sh/github.com/thejasatl/thejasatl.svg)](https://hits.sh/github.com/thejasatl/thejasatl/)
