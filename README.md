@@ -66,3 +66,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Hits](https://hits.sh/github.com/thejasatl/thejasatl.svg)](https://hits.sh/github.com/thejasatl/thejasatl/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejasatl&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejasatl-sj&hide=TeX&layout=compact)
