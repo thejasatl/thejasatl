@@ -9,6 +9,10 @@
 I'm a Network and Software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Flutter, NodeJS , Anggular , ReactJS, Jamstack (JavaScript, APIs + Markup) Google Cloud , Mongodb and so on with the list that cannot be writable . About Network security, Firewalls and VPNs, Cisco Routers, LAN/WAN connectivity, TCP/IP, communications. Experienced in Network Security, Juniper Firewalls, SSL VPN, Checkpoint, RSA, Cisco Nexus, Cisco ACE, Cisco Wireless, Mikrotik, Sophos, Fortigate, Unifi and So on.... 
 
 ---
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/thejaslal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -60,3 +64,5 @@ I'm a Network and Software engineer who is passionate about making contributing 
 - Sharing updates on 💼
 
 [![Hits](https://hits.sh/github.com/thejasatl/thejasatl.svg)](https://hits.sh/github.com/thejasatl/thejasatl/)
+
+
