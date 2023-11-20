@@ -42,3 +42,5 @@ I'm a Network and Software engineer who is passionate about making contributing 
 - Learning in public on 📺 ✍🏾
 - Tinkering with interactions on 🏓
 - Sharing updates on 💼
+
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/thejasatl/thejasatl/)
